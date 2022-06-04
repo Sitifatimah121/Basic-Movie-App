@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="name">Title</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="nameuser">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="string_title">Title</string>
+    <string name="overview">overview</string>
+</resources>
